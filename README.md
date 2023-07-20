@@ -1,4 +1,4 @@
-# Fahimeh Arab - Personal Profile Page 👩‍🎓
+# Fahimeh Arab - Personal Profile Page
 
 ## Introduction
 
@@ -25,6 +25,6 @@ I'm always thrilled to connect with fellow researchers, students, or anyone inte
 
 ## Getting in Touch
 
-If you have any questions about my research, want to discuss potential collaborations, or simply want to share your thoughts on computational cognitive neuroscience, don't hesitate to contact me. I'm excited to connect with like-minded individuals who share the same passion for understanding the human brain better. 🤗🧠
+If you have any questions about my research, want to discuss potential collaborations, or simply want to share your thoughts on computational cognitive neuroscience, don't hesitate to contact me. I'm excited to connect with like-minded individuals who share the same passion for understanding the human brain better. 🧠
 
 Thank you for visiting my personal profile page, and I hope you find the information here insightful and inspiring. Let's explore the fascinating world of computational cognitive neuroscience together! 🚀🧠💫
