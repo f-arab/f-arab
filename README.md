@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello there! Welcome to my personal profile page. I'm Fahimeh Araba, a PhD student at the University of California, Riverside, specializing in electrical engineering with a keen interest in computational neuroscience. My passion lies in exploring human brain data to gain a deeper understanding of the brain and its complexities.
+Hello there! Welcome to my personal profile page. I'm Fahimeh Arab, a Ph.D. student at the University of California, Riverside, specializing in Electrical Engineering with a keen interest in computational neuroscience. My passion lies in exploring human brain data to gain a deeper understanding of the brain and its complexities.
 
 ## About Me
 
