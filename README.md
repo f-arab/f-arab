@@ -10,7 +10,7 @@ As a researcher in computational cognitive neuroscience, I am dedicated to unrav
 
 ## Research Projects
 
-On this page, I showcase some of the research projects I have been working on during my academic journey. These projects revolve around computational neuroscience, where I leverage cutting-edge technologies and data analysis techniques to study the brain's inner workings. 📚🔍
+On this page, I showcase some of the research projects I have been working on during my academic journey. These projects revolve around computational neuroscience, where I leverage cutting-edge technologies and data analysis techniques to study the brain's inner workings. Prior to computational neuroscience, I was mostly working on solving the Fourier phase retrieval problem arising in computational imaging. 📚🔍
 
 ## Ideas and Thoughts
 
