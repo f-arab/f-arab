@@ -43,11 +43,12 @@ neurotransmitter systems, and connectivity · inverse problems and signal proces
 
 ## Selected Publications
 
+- **Global Signal Removal (GSR) as graph spatial filtering.** *bioRxiv*, 2026.
+- **MAMBAxBrain: A multi-task neural framework linking brain functional dynamics to individual fingerprints, cognitive and disease states.** *bioRxiv*, 2026.
 - **Whole-brain causal discovery using fMRI.** *Network Neuroscience*, 2025. [[code]](https://github.com/f-arab/2023Arab_CaLLTiF)
 - **Whole-brain causal connectivity during decoded neurofeedback: a meta study.** *bioRxiv*, 2024.
 - **Solving Fourier phase retrieval with a reference image as a sequence of linear inverse problems.** *IEEE ICIP*, 2021. [[code]](https://github.com/f-arab/Sequential-Fourier-Phase-Retrieval)
 - **Fourier phase retrieval with an arbitrary reference signal.** *IEEE ICASSP*, 2020. [[code]](https://github.com/f-arab/Fourier-Phase-Retrieval-with-Arbitrary-Reference-Signal)
-- *Mapping Whole-Brain Causal Connectome Using fMRI.* PhD Dissertation, University of California, Riverside, 2024.
 
 A complete list of publications is available on [Google Scholar](https://scholar.google.com/citations?user=RCJf-ksAAAAJ&hl=en).
 
