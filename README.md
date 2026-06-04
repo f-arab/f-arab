@@ -10,7 +10,7 @@ Computational neuroscience · brain network modeling · causal discovery
 
 ---
 
-## $\textcolor{#4682B4}{\textsf{About}}$
+## About
 
 I am a postdoctoral scholar in the Brain Networks Lab (Raj Lab) at the University of California, San
 Francisco. I completed my PhD in Electrical and Computer Engineering at the University of California,
@@ -19,7 +19,7 @@ signal processing and then established its main focus, whole-brain causal discov
 remains the foundation of my work today. I am broadly interested in understanding the relationship
 between brain structure and function using principled, data-driven methods.
 
-## $\textcolor{#4682B4}{\textsf{Research}}$
+## Research
 
 **Whole-brain causal discovery and directed connectivity** *(doctoral foundation, ongoing)*
 - Inferring directed (causal) brain interactions from fMRI
@@ -35,13 +35,13 @@ between brain structure and function using principled, data-driven methods.
 **Computational imaging and signal processing** *(earlier doctoral work)*
 - Fourier phase retrieval and inverse problems
 
-## $\textcolor{#4682B4}{\textsf{Research Interests}}$
+## Research Interests
 
 Causal discovery and effective connectivity · structure and function modeling of brain networks ·
 deep learning for neuroimaging (state-space / Mamba models) · relationships between gene expression,
 neurotransmitter systems, and connectivity · inverse problems and signal processing
 
-## $\textcolor{#4682B4}{\textsf{Selected Publications}}$
+## Selected Publications
 
 - **Global Signal Removal (GSR) as graph spatial filtering.** *bioRxiv*, 2026.
 - **MAMBAxBrain: A multi-task neural framework linking brain functional dynamics to individual fingerprints, cognitive and disease states.** *bioRxiv*, 2026.
@@ -52,17 +52,17 @@ neurotransmitter systems, and connectivity · inverse problems and signal proces
 
 A complete list of publications is available on [Google Scholar](https://scholar.google.com/citations?user=RCJf-ksAAAAJ&hl=en).
 
-## $\textcolor{#4682B4}{\textsf{Academic Service}}$
+## Academic Service
 
 **Conference Reviewer:** ICASSP (2021-2025), Asilomar Conference on Signals, Systems, and Computers (2020-2025), ICIP (2021-2025), Cognitive Computational Neuroscience, CCN (2024), NeurIPS UniReps Workshop (2024-2025)
 
 **Journal Reviewer:** IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Frontiers in Computational Neuroscience, Brain Structure and Function, Psychoradiology
 
-## $\textcolor{#4682B4}{\textsf{Methods and Tools}}$
+## Methods and Tools
 
 Python · MATLAB · PyTorch · neuroimaging analysis · network and graph methods
 
-## $\textcolor{#4682B4}{\textsf{Contact}}$
+## Contact
 
 - **Email (UCSF):** fahimeh.arab@ucsf.edu
 - **Email (UC Riverside):** farab002@ucr.edu
