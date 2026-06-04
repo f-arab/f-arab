@@ -1,30 +1,63 @@
-# Fahimeh Arab - Personal Profile Page
+# Fahimeh Arab
 
-## Introduction
+**Postdoctoral Scholar, Brain Networks Lab (Raj Lab), University of California, San Francisco**
 
-Hello there! Welcome to my personal profile page. I'm Fahimeh Arab, a PhD student at the University of California, Riverside, specializing in Electrical Engineering with a keen interest in computational neuroscience. My passion lies in exploring human brain data to gain a deeper understanding of the brain and its complexities. 🧠💻
+Computational neuroscience · brain network modeling · causal discovery
 
-## About Me
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=RCJf-ksAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahimeh-arab)
+[![Email](https://img.shields.io/badge/Email-555555?logo=maildotru&logoColor=white)](mailto:fahimeh.arab@ucsf.edu)
 
-As a researcher in computational cognitive neuroscience, I am dedicated to unraveling the mysteries of the human brain. Through my projects and ideas, I aim to contribute to the advancement of our knowledge about how the brain works and how it gives rise to cognitive functions. 🧠🔬
+---
 
-## Research Projects
+## About
 
-On this page, I showcase some of the research projects I have been working on during my academic journey. These projects revolve around computational neuroscience, where I leverage cutting-edge technologies and data analysis techniques to study the brain's inner workings. Prior to computational neuroscience, I was mostly working on solving the Fourier phase retrieval problem arising in computational imaging. 📚🔍
+I am a postdoctoral scholar in the Brain Networks Lab (Raj Lab) at the University of California, San
+Francisco. I completed my PhD in Electrical and Computer Engineering at the University of California,
+Riverside, advised by Professor Erfan Nozari. My doctoral research began in computational imaging and
+signal processing and then established its main focus, whole-brain causal discovery from fMRI, which
+remains the foundation of my work today. I am broadly interested in understanding the relationship
+between brain structure and function using principled, data-driven methods.
 
-## Ideas and Thoughts
+## Research
 
-Apart from my research projects, I love to share my thoughts and ideas related to computational cognitive neuroscience research. Through my blog posts, I delve into various topics, ranging from brain modeling and neural networks to cognitive processes and artificial intelligence. 📝🧠🌐
+**Whole-brain causal discovery and directed connectivity** *(doctoral foundation, ongoing)*
+- Inferring directed (causal) brain interactions from fMRI
+- Effective connectivity and its applications (e.g., decoded neurofeedback)
 
-## Contact Me
+**Brain structure and function modeling**
+- Network diffusion and structure-to-function relationships in brain networks
+- Brain dynamics in health and neurodegeneration (e.g., tau progression in Alzheimer's disease)
 
-I'm always thrilled to connect with fellow researchers, students, or anyone interested in computational neuroscience. Feel free to reach out to me via email or connect with me on LinkedIn. I look forward to engaging in insightful discussions and potential collaborations. 📧🤝
+**Deep learning for neuroimaging**
+- State-space and sequence models (Mamba) for fMRI time series
 
-- Email: farab002@ucr.edu 📧
-- LinkedIn: [www.linkedin.com/in/fahimeh-arab](www.linkedin.com/in/fahimeh-arab) 🔗
+**Computational imaging and signal processing** *(earlier doctoral work)*
+- Fourier phase retrieval and inverse problems
 
-## Getting in Touch
+## Research Interests
 
-If you have any questions about my research, want to discuss potential collaborations, or simply want to share your thoughts on computational cognitive neuroscience, don't hesitate to contact me. I'm excited to connect with like-minded individuals who share the same passion for understanding the human brain better. 🧠
+Causal discovery and effective connectivity · structure and function modeling of brain networks ·
+deep learning for neuroimaging (state-space / Mamba models) · relationships between gene expression,
+neurotransmitter systems, and connectivity · inverse problems and signal processing
 
-Thank you for visiting my personal profile page, and I hope you find the information here insightful and inspiring. Let's explore the fascinating world of computational cognitive neuroscience together! 🚀🧠💫
+## Selected Publications
+
+- **Whole-brain causal discovery using fMRI.** *Network Neuroscience*, 2025. [[code]](https://github.com/f-arab/2023Arab_CaLLTiF)
+- **Whole-brain causal connectivity during decoded neurofeedback: a meta study.** *bioRxiv*, 2024.
+- **Solving Fourier phase retrieval with a reference image as a sequence of linear inverse problems.** *IEEE ICIP*, 2021. [[code]](https://github.com/f-arab/Sequential-Fourier-Phase-Retrieval)
+- **Fourier phase retrieval with an arbitrary reference signal.** *IEEE ICASSP*, 2020. [[code]](https://github.com/f-arab/Fourier-Phase-Retrieval-with-Arbitrary-Reference-Signal)
+- *Mapping Whole-Brain Causal Connectome Using fMRI.* PhD Dissertation, University of California, Riverside, 2024.
+
+A complete list of publications is available on [Google Scholar](https://scholar.google.com/citations?user=RCJf-ksAAAAJ&hl=en).
+
+## Methods and Tools
+
+Python · MATLAB · PyTorch · neuroimaging analysis · network and graph methods
+
+## Contact
+
+- **Email (UCSF):** fahimeh.arab@ucsf.edu
+- **Email (UC Riverside):** farab002@ucr.edu
+- **Google Scholar:** https://scholar.google.com/citations?user=RCJf-ksAAAAJ&hl=en
+- **LinkedIn:** https://www.linkedin.com/in/fahimeh-arab
