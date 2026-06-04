@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Fahimeh Arab — Computational Neuroscience</title>
-<meta name="description" content="Fahimeh Arab — Postdoctoral Scholar, Brain Networks Lab (Raj Lab), UCSF. Computational neuroscience, brain network modeling, and causal discovery from fMRI.">
+<title>Fahimeh Arab | Computational Neuroscience</title>
+<meta name="description" content="Fahimeh Arab. Postdoctoral Scholar, Brain Networks Lab (Raj Lab), UCSF. Computational neuroscience, brain network modeling, and causal discovery from fMRI.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
@@ -31,7 +31,7 @@
   }
   a{color:var(--accent); text-decoration:none}
   a:hover{text-decoration:underline}
-  .wrap{max-width:var(--maxw); margin:0 auto; padding:0 22px}
+  .wrap{max-width:none; margin:0; padding:0 clamp(20px, 3.5vw, 64px)}
 
   /* sticky nav */
   nav{
@@ -110,8 +110,7 @@
   p{margin:0 0 14px}
   .lead{color:var(--text)}
 
-  .cards{display:grid; grid-template-columns:1fr 1fr; gap:16px}
-  @media (max-width:640px){ .cards{grid-template-columns:1fr} }
+  .cards{display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:16px}
   .card{
     background:var(--surface); border:1px solid var(--border); border-radius:14px;
     padding:18px 20px; box-shadow:var(--shadow);
@@ -178,10 +177,10 @@
     <span class="brand">Fahimeh Arab</span>
     <div class="links">
       <a href="#about">About</a>
-      <a href="#news">News</a>
       <a href="#research">Research</a>
       <a href="#publications">Publications</a>
       <a href="#service">Service</a>
+      <a href="#news">News</a>
       <a href="#contact">Contact</a>
     </div>
   </div>
@@ -222,21 +221,11 @@
     data-driven methods.</p>
   </section>
 
-  <section id="news">
-    <h2>News</h2>
-    <ul class="news">
-      <li><span class="date">2026</span><span class="item">New preprint: <em>Global Signal Removal (GSR) as graph spatial filtering</em> posted on bioRxiv.</span></li>
-      <li><span class="date">2026</span><span class="item">New preprint: <em>MAMBAxBrain</em> — a multi-task neural framework linking brain functional dynamics to individual fingerprints, cognitive and disease states.</span></li>
-      <li><span class="date">2025</span><span class="item">Our paper <em>Whole-brain causal discovery using fMRI</em> appeared in <em>Network Neuroscience</em>.</span></li>
-      <li><span class="date">2024</span><span class="item">Started as a Postdoctoral Scholar in the Brain Networks Lab (Raj Lab) at UCSF.</span></li>
-    </ul>
-  </section>
-
   <section id="research">
     <h2>Research</h2>
     <div class="cards">
       <div class="card">
-        <h3>Whole-brain causal discovery &amp; directed connectivity <span class="note">— doctoral foundation, ongoing</span></h3>
+        <h3>Whole-brain causal discovery &amp; directed connectivity <span class="note">(doctoral foundation, ongoing)</span></h3>
         <ul>
           <li>Inferring directed (causal) brain interactions from fMRI</li>
           <li>Effective connectivity and its applications (e.g., decoded neurofeedback)</li>
@@ -256,7 +245,7 @@
         </ul>
       </div>
       <div class="card">
-        <h3>Computational imaging &amp; signal processing <span class="note">— earlier doctoral work</span></h3>
+        <h3>Computational imaging &amp; signal processing <span class="note">(earlier doctoral work)</span></h3>
         <ul>
           <li>Fourier phase retrieval and inverse problems</li>
         </ul>
@@ -338,6 +327,16 @@
       <span class="chip">Neuroimaging analysis</span>
       <span class="chip">Network &amp; graph methods</span>
     </div>
+  </section>
+
+  <section id="news">
+    <h2>News</h2>
+    <ul class="news">
+      <li><span class="date">2026</span><span class="item">New preprint: <em>Global Signal Removal (GSR) as graph spatial filtering</em> posted on bioRxiv.</span></li>
+      <li><span class="date">2026</span><span class="item">New preprint: <em>MAMBAxBrain</em>, a multi-task neural framework linking brain functional dynamics to individual fingerprints, cognitive and disease states.</span></li>
+      <li><span class="date">2025</span><span class="item">Our paper <em>Whole-brain causal discovery using fMRI</em> appeared in <em>Network Neuroscience</em>.</span></li>
+      <li><span class="date">2024</span><span class="item">Started as a Postdoctoral Scholar in the Brain Networks Lab (Raj Lab) at UCSF.</span></li>
+    </ul>
   </section>
 
   <section id="contact">
