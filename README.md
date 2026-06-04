@@ -52,6 +52,12 @@ neurotransmitter systems, and connectivity · inverse problems and signal proces
 
 A complete list of publications is available on [Google Scholar](https://scholar.google.com/citations?user=RCJf-ksAAAAJ&hl=en).
 
+## Academic Service
+
+**Conference Reviewer:** ICASSP (2021-2025), Asilomar Conference on Signals, Systems, and Computers (2020-2025), ICIP (2021-2025), Cognitive Computational Neuroscience, CCN (2024), NeurIPS UniReps Workshop (2024-2025)
+
+**Journal Reviewer:** IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Frontiers in Computational Neuroscience, Brain Structure and Function, Psychoradiology
+
 ## Methods and Tools
 
 Python · MATLAB · PyTorch · neuroimaging analysis · network and graph methods
