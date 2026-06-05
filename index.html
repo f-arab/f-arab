@@ -44,7 +44,11 @@
   nav .links{display:flex; gap:22px}
   nav .links a{color:var(--muted); font-size:14.5px; font-weight:500}
   nav .links a:hover{color:var(--accent); text-decoration:none}
-  @media (max-width:640px){ nav .links{display:none} }
+  @media (max-width:640px){
+    nav .wrap{flex-wrap:wrap; height:auto; padding-top:9px; padding-bottom:9px; justify-content:center; gap:6px}
+    nav .brand{flex:0 0 100%; text-align:center}
+    nav .links{display:flex; flex-wrap:wrap; justify-content:center; gap:8px 16px; width:100%}
+  }
 
   /* hero banner: SF sunrise with identity info overlaid on the left */
   header.hero{
